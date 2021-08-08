@@ -40,7 +40,7 @@ body {
     color: #22272e;
     text-decoration: none;
     text-align: center;
-    width: 200px;
+    width: 300px;
     font-size: 200%;
     padding: 10px 0;
     border-radius: 20px;
@@ -52,6 +52,6 @@ body {
 }
 
 .Elem {
-    width: 200px;
+    width: 300px;
     margin: 0 20px;
 }
